@@ -1,0 +1,440 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.a{
+    width: 100%;
+    height: 630px;
+    background-image: url(hero.jpg);
+    background-size: 100% 100%;
+
+}
+.b{ 
+   height: 70px;
+    position: absolute;
+    left: 30px;
+    top: 10px;
+}
+.c{
+    position: absolute;
+    left: 500px;
+    top: 40px;
+    list-style: none;
+
+}
+.d{
+    float: left;
+    margin-left: 50px;
+
+}
+.m{
+    clear: both;
+}
+.d:hover{
+    background-color:transparent;
+    color:blue;
+    
+}
+
+.e{
+    
+    color:white;
+    position: absolute;
+    top: 200px;
+    left: 500px;
+
+}
+.f{
+    color: white;
+    position: absolute;
+    top: 250px;
+    margin-left:300px;
+    margin-right: 300px;
+    
+}
+.g{
+    width: 100px;
+    background-color: turquoise;
+    color: white;
+    padding: 7px;
+    position: absolute;
+    top: 330px;
+    left: 570px;
+}
+.h{
+    width: 100%;
+    height: 400px;
+
+}
+.i{
+    margin-left: 450px;
+    margin-top: 10px;
+}
+.j{
+    color: turquoise;
+    margin-left: 600px;
+    margin-top: -37px;
+}
+.k{
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    background-color: turquoise;
+    border-radius: 200px;
+    
+    padding-top: 100px;
+    
+    padding-left: 50px;
+    padding-right: 50px;
+    display: inline-block;
+    position: relative;
+    left: 10px;
+    top: 50px;
+    margin-left: 50px;
+}
+.l{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(231, 224, 224);
+    padding: 10px;
+    position: relative;
+
+}    
+.n{
+    margin-left: 500px;
+    margin-top: 20px;
+}
+.o{
+    color: turquoise;
+    margin-left: 600px;
+    margin-top: -37px;
+}
+.p{
+   position: absolute;
+   left: 50px;
+   top: 150px; 
+}
+.q{
+    position: absolute;
+    left: 50px;
+    top: 180px;
+    right: 700px;
+}
+.r{
+    color: turquoise;
+    position: absolute;
+    left: 100px;
+    top: 280px;
+}
+.t{
+    list-style: none;
+    position: absolute;
+    top: 150px;
+    left: 700px;
+}   
+.u{
+    margin-top: 50px;
+}
+.x{ 
+    width: 500px;
+    height: 10px;
+    background-color: turquoise;
+    position: absolute;
+    left: 700px;
+    top: 220px;
+
+}
+.y{
+    height: 10px;
+    width: 450px;
+    background-color: turquoise;
+    position: absolute;
+    left: 700px;
+    top: 290px;
+}
+.z{
+    height: 10px;
+    width: 400px;
+    background-color: turquoise;
+    position: absolute;
+    left:700px;
+    top:360px;
+}
+.ab{
+    height: 10px;
+    width: 250px;
+    background-color: turquoise;
+    position: absolute;
+    left: 700px;
+    top: 430px;
+}
+.bc{
+    position: absolute;
+    left: 1150px;
+    top:200px ;
+}
+.cd{
+    position: absolute;
+    left: 1100px;
+    top:270px ;
+}
+.de{
+    position: absolute;
+    left: 1050px;
+    top:340px ;
+}
+.ef{
+    position: absolute;
+    left: 900px;
+    top: 410px;
+}
+.fg{
+    width: 100%;
+    height:400px; 
+    
+
+    
+}
+.gh{
+    width: 300px;
+    height: 150px;
+    float: left;
+    
+    position: relative;
+    left: 0px;
+    top: 50px;
+    margin-left: 100px;
+
+}
+.hi{
+    clear: both;
+}
+
+.ij{
+    width: 300px;
+    height: 150px;
+    float: left;
+    position: relative;
+    top:50px;
+    margin-left: 100px;
+}
+.jk{
+    width: 100%;
+    height: 600px;
+    background-color: rgb(231, 224, 224);
+
+}
+.kl{
+    width: 150px;
+    height: 35px;
+    border: 1px solid;
+    text-align: center;
+    float: left;
+    margin-top: 50px; 
+    padding-top: 10px;
+    position: relative;
+    left: 300px;
+    
+}
+.mn{
+    clear: both;
+}
+.lm{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    top: 100px;
+    left: 150px;
+    float: left;
+    margin-left: 10px;
+
+}
+.no{
+    width: 300px;
+    height: 300px;
+}
+.op{
+    width: 100%;
+    height: 600px;
+}
+.pq{
+    margin-left: 500px;
+    margin-top: 20px;
+}
+.qr{
+    margin-left: 600px;
+    margin-top: -37px;
+    color: turquoise;
+}
+.rs{
+    width: 300px;
+    height: 350px;
+    display: inline-block;
+    margin-top: 100px;
+    margin-left: 50px; 
+    position: relative;
+    left: 80px;
+
+}
+.st{
+    width: 300px;
+    height: 350px;
+}
+.tu{
+    margin-left: 650px;
+    margin-top: -37px;
+    color: turquoise;
+}
+.uv{
+    width: 350px;
+    height: 400px;
+    float: left;
+    margin-top: 80px;
+    position: relative;
+    left: 10px;
+    margin-left: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.abc{
+    clear: both;
+}
+.vw{
+    width: 100%;
+    height: 600px;
+    background-color: rgb(231, 224, 224);
+
+}
+.wx{
+    width: 250px;
+    height: 25px;
+    border: 1px solid;
+    padding-top: 10px;
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+.xy{
+    width: 100%;
+    height: 600px;
+
+}
+.yz{
+    width: 350px;
+    height: 200px;
+    border: 1px solid;
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 20px;
+    position: relative;
+    left: 70px;
+   
+}
+.abc{
+    width: 350px;
+    height: 200px;
+    
+   
+}
+.cdg{
+    margin-top: 50px;
+    margin-left: 150px;
+    float: left;
+    position: relative;
+    left: 0px;
+
+}
+    
+.deg{
+    float: left;
+    margin-top: 50px;
+    margin-left: 230px;
+    position: relative;
+    left: -80px;
+
+    
+}
+.efg{
+    clear: both;
+    
+
+}
+.fgl{
+    clear: both;
+    
+}
+.ghl{
+    background-color: gray;
+    padding: 10px;
+    margin-top: 50px;
+    margin-left: 280px;
+    position: relative;
+    left: -100px;   
+}
+.mode{
+    margin-left: 680px;
+    color: turquoise;
+    margin-top: -37px;
+
+}
+.od{
+    margin-left: 300px;
+    margin-top: 100px;
+}
+.input1{
+    height: 25px;
+    width: 200px;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+.input2{
+    width: 500px;
+    height: 25px;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+.input3{
+    height: 25px;
+    width: 200px;
+    margin-left: 90px;
+    margin-top: 50px;
+
+}
+.input4{
+  position: relative;
+  top: 100px;
+  left: -505px;
+}
+.lack{
+    background-color: turquoise;
+    color: blue;
+    padding: 10px;
+    position: relative;
+    top: 150px;
+    left: -690px;
+    
+}
+.future{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    position: relative;
+    top: 200px;
+}
+.east{
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+   
+
+
+
+
+
+
+    
+    
+
+
+
